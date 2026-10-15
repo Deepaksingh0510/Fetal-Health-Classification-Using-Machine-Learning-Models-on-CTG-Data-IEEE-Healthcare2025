@@ -140,14 +140,4 @@ For more details, refer to the official IEEE Xplore publication page.
 - Build a simple interface for demonstrating model predictions.
 - Evaluate the model on independent data before considering real-world applications.
 
-## ⚠️ Disclaimer
 
-This project is intended for educational and research purposes only. Its predictions are not a substitute for professional medical assessment or clinical decision-making.
-
-## 👨‍💻 Author
-
-**Deep**
-
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
-
-LeetCode: [deep051018](https://leetcode.com/u/deep051018/)
